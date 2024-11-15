@@ -51,7 +51,7 @@ body{
   transform: rotateY(90deg) translate3d(0 , 0 , 100px);
 }
 .side.left{
-  color:violet;
+  color:rgb(238, 130, 143);
   transform: rotateY(-90deg) translate3d(0 , 0 , 100px);
 }
 
